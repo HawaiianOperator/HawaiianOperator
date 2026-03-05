@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @HawaiianOperator
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi I'm HawaiianOperator.
+
+I am a Student majoring applied mathmatics. I am intrested in AI and physic simulations.
+🌱 Currently learning: Python, C++, level design and physics simulations  
+🔭 Working on: small coding projects and class assignments  
+
 
 <!---
 HawaiianOperator/HawaiianOperator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
