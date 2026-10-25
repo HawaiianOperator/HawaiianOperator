@@ -1,12 +1,7 @@
-<div align="center">
-<img src="https://media1.tenor.com/m/Hy-KN1Vg1BIAAAAC/girl-anime.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Michael, a Student at UC Merced 👨‍💻 working toward my BS in Computer Science 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator]()  
+- 🔭 I’m currently working on []()  
   
 
 - 🌱 I’m currently learning Docker C, C++, and python  
