@@ -1,24 +1,19 @@
-### <div align="center">I'm Michael, a Student at UC Merced 👨‍💻 working toward my BS in Computer Science 🚀</div>  
+### <div align="center">I'm Michael, a Student at UC Merced 👨‍💻 working toward my BS in Computer Science and Engineering 🚀</div>  
   
 
-- 🔭 I’m currently working on []()  
+- 🔭 I’m currently working on [Operation Ducks]()  
   
 
 - 🌱 I’m currently learning Docker C, C++, and python  
   
 
-- ❓ Ask me about anything related to AI and LLM  
-  
-
-- ⚡ Fun fact: GBT is better than Claude  
-  
+- ❓ Ask me about anything related to AI, Machine Learning and LLM  
 
 <br/>  
 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
